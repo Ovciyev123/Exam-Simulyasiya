@@ -24,7 +24,7 @@ function Favorites() {
     {
         favorites.length==0 ?(
 
-            <h1>Sizin Wishlistiniz Bosdur</h1>
+            <h1 className='h1'>Sizin Wishlistiniz Bosdur</h1>
         )
 
         :(<div className="favoritescards">

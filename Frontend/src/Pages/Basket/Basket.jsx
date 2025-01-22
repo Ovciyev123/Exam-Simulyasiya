@@ -69,7 +69,7 @@ function Basket() {
                 {
                     basket.length == 0 ? (
 
-                        <h1>Sizin Basketiniz Bosdur</h1>
+                        <h1 className='hr'>Sizin Basketiniz Bosdur</h1>
                     )
 
                         : (
