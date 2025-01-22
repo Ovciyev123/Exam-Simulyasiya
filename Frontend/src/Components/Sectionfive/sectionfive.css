@@ -1,0 +1,32 @@
+.sectionfive h2,p{
+
+    text-align: center;
+}
+
+.sectionfive{
+
+    padding: 100px 0px;
+}
+
+
+.sectionfive-cards{
+
+    display: flex;
+    flex-wrap: wrap;
+    gap: 20px;
+    width: 60%;
+    margin: 30px auto;
+}
+
+.sectionfive-card h3,h4{
+
+    font-size: 16px;
+}
+
+.sectionfive-card{
+
+    display: flex;
+    gap: 10px;
+    width: 23%;
+   
+}
